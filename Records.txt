@@ -1,0 +1,2 @@
+FULLNAME: Diether, ADDRESS: add, AGE: 20, CONTACT NUMBER: 09888888888, EMAIL ADDRESS: dssadsadsa@gmail.com, USERNAME: diet, PASSWORD: eeee,
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
